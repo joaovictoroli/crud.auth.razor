@@ -1,5 +1,5 @@
-# My Project Name
-This is a simple project that does XYZ.
+# Crud razor
+simples crud
 
 ## Getting Started
     # dotnet clean
