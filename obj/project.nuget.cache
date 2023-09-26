@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cmPRNxfKYf7jYBhPsXrRMW82aMB6TDRj6adGB46Ra28v7Ne1/P6u9uvxCuErVoZFeCoRbvELKmtIwqr1MTPS+g==",
+  "dgSpecHash": "/+UfK5oAJgX7GE945UGJEwxkBCiDda8c6PIvpO4WVW6R2Pjq02c7B4Ez8wCmzuZR3FxqvNH0CYqHGxnHwYPqkw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\joaov\\source\\repos\\app\\auth.studies\\auth.studies.csproj",
+  "projectFilePath": "c:\\Users\\joaov\\source\\repos\\app\\auth.studies\\auth.studies.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\joaov\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\joaov\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
